@@ -15,3 +15,5 @@ This repo contains assignments given in week-2. The assignments are written in P
 [Day 9 - PM - Assignment](day9/tuples_sets/README.md) 
 
 [Day 10 - AM - Assignment](day10/dicts/README.md)
+
+[Day 10 - PM - Assignment](day10/functions/README.md)
