@@ -45,6 +45,9 @@ python3 frozenset_bundles.py
 
 ### Output Screenshot:- 
 
+<img width="703" height="605" alt="Screenshot 2026-03-08 at 4 56 31 PM" src="https://github.com/user-attachments/assets/d2f54f53-ea9f-41ad-8d10-0bd7367e3359" />
 
+<img width="1060" height="734" alt="Screenshot 2026-03-08 at 4 56 57 PM" src="https://github.com/user-attachments/assets/a9d1e0dc-066f-4049-8d91-65af08920ad4" />
 
-    
+<img width="1047" height="671" alt="Screenshot 2026-03-08 at 4 57 11 PM" src="https://github.com/user-attachments/assets/fe3616fd-9aec-474a-969d-cff2e8cacfb6" />
+
