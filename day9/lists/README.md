@@ -7,8 +7,14 @@ This is a simple student management system implemented in Python. It allows the 
 
 ### How to use:- 
 
-1. Run the program using `python3 student_system.py`
+1. Run the program using :-
 
+    ```
+    cd student_system
+    ```
+    ```
+    python3 student_system.py
+    ```
 2. Follow the menu to add new student records, view top-3 students in a subject, calculate class average for a subject, list students scoring above overall average, remove student records by name, and exit and save records to a file.
 
 ### Requirements:- 
@@ -17,14 +23,18 @@ This is a simple student management system implemented in Python. It allows the 
 
 ### Files:- 
 
-`student_system.py` — main program containing the student management system logic
+[`student_system.py`](./student_system/student_system.py) — main program containing the student management system logic
 
-`students.txt` — file containing student records, loaded on startup and saved on exit
+[`students.txt`](./student_system/students.txt)— file containing student records, loaded on startup and saved on exit
 
 
 ### Usage:- 
 
-Run the program from the current directory:
+Run the program from the student_system directory:
+
+```bash
+cd student_system
+```
 
 ```python
 python3 student_system.py
@@ -67,7 +77,7 @@ This program performs matrix operations on two matrices A and B represented as l
 
 ### Files:- 
 
-`matrix_ops.py` — main program containing the matrix operations logic
+[`matrix_ops.py`](matrix_ops.py) — main program containing the matrix operations logic
 
 ### Usage:- 
 
@@ -81,4 +91,7 @@ python3 matrix_ops.py
 <img width="597" height="729" alt="Screenshot 2026-03-08 at 11 11 43 AM" src="https://github.com/user-attachments/assets/6c7691a2-9a7b-49ff-98e9-655b343f9f9b" />
 
 
-Document Link - Contains Descriptive answers 
+### **Document Link -**
+-  Contains descriptive answers
+
+

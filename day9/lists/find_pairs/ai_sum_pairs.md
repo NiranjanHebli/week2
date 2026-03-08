@@ -47,6 +47,15 @@ Yes, It had an incorrect logic since it didnt verify for duplicate pairs.
 
 **optimized code link:-** [find_pairs_optimized.py](find_pairs_optimized.py)
 
+### Key changes made:- 
+- Two new data structures: Added hash set for tracking seen numbers + second set for unique pairs
+
+- Single pass algorithm: Replaced nested index loops with one linear traversal
+
+- Complement lookup: Calculates target - current and checks if previously seen (O(1))
+
+- Bidirectional duplicate check: Verifies both pair orders exist before adding
+
 
 ### Output Screenshot:- 
 
@@ -56,3 +65,10 @@ Yes, It had an incorrect logic since it didnt verify for duplicate pairs.
 
 The time complexity of this program is O(n), where n is the length of the input list. This is because the program iterates over the list once to build the hash set of seen numbers, and then iterates over the list again to find the pairs that sum to the target.
 
+
+
+### Analysis:- 
+
+The second version of find_pairs represents significant improvements over the first across multiple dimensions. Most critically, it reduces time complexity from O(n^2) in the list comprehension version which relies on nested loops over all index pairs to O(n) by using a single pass with a hash set to track seen numbers and their complements.This makes it dramatically more efficient for large lists, scaling linearly instead of quadratically.
+
+ Additionally, it properly handles duplicate pairs by maintaining a separate pairs set that checks both (num, complement) and (complement, num) before adding, ensuring value-based uniqueness rather than index-based repetition; for example, with [1, 4, 4, 5] and target 9, the first version might return [(4,5), (4,5)] while the second returns only [(4,5)]. It also introduces canonical pair ordering via min(num, complement) and max(num, complement), guaranteeing consistent sorted tuples regardless of traversal order.
