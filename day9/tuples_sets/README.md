@@ -56,3 +56,8 @@ python3 frozenset_bundles.py
 ## Part C :- Interview Ready
 
 find solutions in :- [interview_answers.md](./interview_answers.md)
+
+
+## Part D :- AI Augmented Task 
+
+find solutions in :- [ai_jaccard.md](./ai_jaccard.md)
