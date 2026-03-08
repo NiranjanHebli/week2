@@ -17,10 +17,6 @@ This is a simple student management system implemented in Python. It allows the 
     ```
 2. Follow the menu to add new student records, view top-3 students in a subject, calculate class average for a subject, list students scoring above overall average, remove student records by name, and exit and save records to a file.
 
-### Requirements:- 
-
--  Python 3.7 or higher
-
 ### Files:- 
 
 [`student_system.py`](./student_system/student_system.py) — main program containing the student management system logic
@@ -70,10 +66,6 @@ python3 student_system.py
 
 This program performs matrix operations on two matrices A and B represented as lists of lists. The operations include addition, transpose, and multiplication.
 
-
-### Requirements:- 
-
--  Python 3.7 or higher
 
 ### Files:- 
 
