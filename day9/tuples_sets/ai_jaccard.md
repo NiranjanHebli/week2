@@ -1,13 +1,18 @@
 ## Prompt:-
 
-```
 Write a Python function that calculates the Jaccard similarity between two sets of strings. The function should take two sets as input and return a similarity score between 0 and 1. First, briefly explain what Jaccard similarity is in simple terms, including its formula based on intersection and union of sets. Then provide the Python implementation of the function with a small example demonstrating how it works. Finally, explain a few real-world industry use cases where Jaccard similarity is commonly applied, such as recommendation systems, document similarity detection, plagiarism detection, or search engines.
-```
+
+
+
+
+## AI - Generated Output:- 
+<img width="899" height="713" alt="Screenshot 2026-03-08 at 5 56 35 PM" src="https://github.com/user-attachments/assets/0696cfad-f8b8-4a3b-8d8f-1d5ae6323506" />
 
 
 ## AI - Generated Code:- 
 
 [jaccard.py](./jaccard.py)
+
 
 ```python
 def jaccard_similarity(set1, set2):
