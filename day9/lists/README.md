@@ -52,3 +52,28 @@ python3 student_system.py
 <img width="541" height="430" alt="Screenshot 2026-03-08 at 10 28 28 AM" src="https://github.com/user-attachments/assets/da42faaa-16e5-4c31-94ea-d2196e9a2733" />
 
 <img width="391" height="296" alt="Screenshot 2026-03-08 at 10 28 39 AM" src="https://github.com/user-attachments/assets/53a501a8-4deb-4848-961c-b4c335564ab0" />
+
+
+## Part B :- Matrix Operations
+
+This program performs matrix operations on two matrices A and B represented as lists of lists. The operations include addition, transpose, and multiplication.
+
+
+### Requirements:- 
+
+-  Python 3.7 or higher
+
+### Files:- 
+
+`matrix_ops.py` — main program containing the matrix operations logic
+
+### Usage:- 
+
+Run the program from the current directory:
+
+```python
+python3 matrix_ops.py
+```
+
+### Output Screenshot:- 
+
