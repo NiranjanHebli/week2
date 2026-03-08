@@ -59,6 +59,8 @@ Yes, It had an incorrect logic since it didnt verify for duplicate pairs.
 
 ### Output Screenshot:- 
 
+<img width="554" height="65" alt="Screenshot 2026-03-08 at 1 29 31 PM" src="https://github.com/user-attachments/assets/682cc4ac-e239-4dfa-8ac8-bc678c005c11" />
+
 
 
 ### Time Complexity
