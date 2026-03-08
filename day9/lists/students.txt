@@ -1,0 +1,13 @@
+Name|Subject|Marks
+-----------------------------------
+Rohan|Chemistry|90
+Sneha|Chemistry|84
+Karan|Chemistry|78
+Meera|Math|95
+Aman|Math|88
+Rahul|Math|76
+Tanvi|Math|73
+Mihir Gor|Maths|100
+Priya|Physics|91
+Divya|Physics|82
+Arjun|Physics|67
