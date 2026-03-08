@@ -39,3 +39,21 @@ python3 test_analytics.py
 
 <img width="1035" height="753" alt="Screenshot 2026-03-08 at 11 57 47 PM" src="https://github.com/user-attachments/assets/d69cac22-c04f-4151-afcf-35a11a191240" />
 
+## Part B:- Decorators Use:- 
+Decorators are a powerful tool in Python that allows users to modify the behavior of a function without changing its source code. They are often used to add logging, timing, retry logic, and caching to existing functions.
+
+### File:-
+
+[`decorators.py`](./decorators.py) :- 
+This file contains three decorators built from scratch: `@timer`, `@logger`, and `@retry`. These decorators can be used to add logging, timing, and retry logic to existing functions.
+
+
+### How to use:-
+
+1. Run the program using :-
+
+```bash
+python3 decorators.py
+```
+
+### Output Screenshot:-
