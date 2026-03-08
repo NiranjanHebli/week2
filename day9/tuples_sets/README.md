@@ -51,3 +51,8 @@ python3 frozenset_bundles.py
 
 <img width="1047" height="671" alt="Screenshot 2026-03-08 at 4 57 11 PM" src="https://github.com/user-attachments/assets/fe3616fd-9aec-474a-969d-cff2e8cacfb6" />
 
+
+
+## Part C :- Interview Ready
+
+find solutions in :- [interview_answers.md](./interview_answers.md)
