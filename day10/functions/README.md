@@ -57,3 +57,4 @@ python3 decorators.py
 ```
 
 ### Output Screenshot:-
+<img width="1075" height="245" alt="Screenshot 2026-03-09 at 12 12 28 AM" src="https://github.com/user-attachments/assets/1310a5b8-8d6a-4b3b-b0f1-f00476e78d6c" />
