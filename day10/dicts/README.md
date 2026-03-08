@@ -32,3 +32,7 @@ This is a log analyzer implemented in Python. It analyzes a log file and provide
 ```python 
 python3 log_analyzer.py
 ```
+
+## Part C :- Interview Ready
+
+Find solutions in :- [interview_answers.md](interview_answers.md)
