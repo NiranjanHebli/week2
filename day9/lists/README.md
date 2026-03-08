@@ -92,6 +92,7 @@ python3 matrix_ops.py
 
 
 ### **Document Link -**
+[Day 9 - AM - List Deep Dive.pdf](./Day%209%20-%20AM%20-%20List%20Deep%20Dive%20(1).pdf)
 -  Contains descriptive answers
 
 
