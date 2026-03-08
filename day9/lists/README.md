@@ -1,4 +1,5 @@
 # Day 9 AM Assignment
+[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](#badges)
 
 ## Part A:- Student Management System:- 
 This is a simple student management system implemented in Python. It allows the user to add new student records, view top-3 students in a subject, calculate class average for a subject, list students scoring above overall average, remove student records by name, and save records to a file on exit and load on startup.
