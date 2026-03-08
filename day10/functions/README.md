@@ -61,6 +61,11 @@ python3 decorators.py
 
 ## Part C :- Interview Ready
 
-#### solutions in :-  
+#### Solutions in :-  
 [`interview_answers.md`](./interview_answers.md)
 
+
+## Part D :- AI - Augmented Task
+
+#### Solutions in :- 
+[`ai_augmented.md`](./ai_augmented.md)
