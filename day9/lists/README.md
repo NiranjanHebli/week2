@@ -51,6 +51,7 @@ python3 student_system.py
 
 <img width="541" height="430" alt="Screenshot 2026-03-08 at 10 28 28 AM" src="https://github.com/user-attachments/assets/da42faaa-16e5-4c31-94ea-d2196e9a2733" />
 
+
 <img width="391" height="296" alt="Screenshot 2026-03-08 at 10 28 39 AM" src="https://github.com/user-attachments/assets/53a501a8-4deb-4848-961c-b4c335564ab0" />
 
 
@@ -76,4 +77,5 @@ python3 matrix_ops.py
 ```
 
 ### Output Screenshot:- 
+<img width="597" height="729" alt="Screenshot 2026-03-08 at 11 11 43 AM" src="https://github.com/user-attachments/assets/6c7691a2-9a7b-49ff-98e9-655b343f9f9b" />
 
