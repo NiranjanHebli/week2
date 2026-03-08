@@ -36,3 +36,9 @@ python3 log_analyzer.py
 ## Part C :- Interview Ready
 
 Find solutions in :- [interview_answers.md](interview_answers.md)
+
+
+## Part D :- AI Augmented Task
+
+Find Solution in :-
+[ai_augmented.md](./ai_augmented.md)

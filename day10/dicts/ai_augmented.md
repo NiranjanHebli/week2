@@ -88,3 +88,25 @@ sem2 = {"Math": 90, "Physics": 80, "Biology": 88}
 print(analyze_grades(sem1, sem2))
 
 ```
+
+
+### Does it handle missing subjects?
+ Yes, missing subjects are handled because defaultdict(list) allows subjects appearing in only one semester to be stored without errors.
+
+
+### Does it use .get() safely?
+No, the code does not use .get(); it relies on defaultdict, which already avoids key errors.
+
+### Is the 'trend' calculation correct?
+ Yes, the trend logic is correct for normal cases since it compares the average grades of semester 1 and semester 2.
+
+
+### Does it handle edge cases (empty dicts, single semester)?
+No, it does not handle edge cases like empty dictionaries or a missing semester because division by zero could occur.
+
+### Is the code Pythonic (uses comprehensions where appropriate)?
+Yes, the code is reasonably Pythonic since it uses dictionary and list comprehensions appropriately.
+
+
+### Improved version
+File :- [analyze_grades.py](analyze_grades.py)
