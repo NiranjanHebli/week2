@@ -1,4 +1,4 @@
-# Day 10 - AM - Assignment - Dictionaries
+# Day 10 - AM - Assignment - Dictionaries and Logging
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](#badges)
 
@@ -18,3 +18,17 @@ python3 product_catalog_system.py
 ```
 
 
+## Part B:- Log Analyzer:- 
+This is a log analyzer implemented in Python. It analyzes a log file and provides insights such as most frequent log levels, most frequent log modules, and most frequent log messages.
+
+### Files:- 
+
+[`log_analyzer.py`](./log_analyzer.py): main program containing log analyzer logic
+
+### How to use:- 
+
+1. Run the program using :-
+
+```python 
+python3 log_analyzer.py
+```
