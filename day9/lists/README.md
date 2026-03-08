@@ -41,8 +41,14 @@ python3 student_system.py
 
 
 ### Output Screenshots:- 
+<img width="593" height="334" alt="Screenshot 2026-03-08 at 10 25 34 AM" src="https://github.com/user-attachments/assets/ab86bc64-e78e-4c86-8e44-8f888fc4d0f4" />
 
+<img width="677" height="426" alt="Screenshot 2026-03-08 at 10 26 05 AM" src="https://github.com/user-attachments/assets/243879ae-6341-4afc-8169-f4bbfed03e49" />
 
+<img width="669" height="424" alt="Screenshot 2026-03-08 at 10 26 38 AM" src="https://github.com/user-attachments/assets/f9809e49-c1a8-4b35-bc26-4aef4168c10b" />
 
+<img width="687" height="433" alt="Screenshot 2026-03-08 at 10 27 57 AM" src="https://github.com/user-attachments/assets/47900315-cb2d-4bd6-ae02-ae95a30440ff" />
 
+<img width="541" height="430" alt="Screenshot 2026-03-08 at 10 28 28 AM" src="https://github.com/user-attachments/assets/da42faaa-16e5-4c31-94ea-d2196e9a2733" />
 
+<img width="391" height="296" alt="Screenshot 2026-03-08 at 10 28 39 AM" src="https://github.com/user-attachments/assets/53a501a8-4deb-4848-961c-b4c335564ab0" />
