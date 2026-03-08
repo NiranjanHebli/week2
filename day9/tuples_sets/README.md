@@ -21,5 +21,8 @@ python3 product_analytics.py
 
 ### Output Screenshot:- 
 
+<img width="851" height="718" alt="Screenshot 2026-03-08 at 4 19 16 PM" src="https://github.com/user-attachments/assets/a929f5d2-18b9-4575-9af3-4ec5f0656322" />
 
+<img width="856" height="727" alt="Screenshot 2026-03-08 at 4 19 31 PM" src="https://github.com/user-attachments/assets/f69158e1-8ca8-4d91-a8b4-581bcd55e595" />
 
+<img width="839" height="732" alt="Screenshot 2026-03-08 at 4 19 43 PM" src="https://github.com/user-attachments/assets/7a635075-6e09-4c06-bf9b-450504cf63a7" />
