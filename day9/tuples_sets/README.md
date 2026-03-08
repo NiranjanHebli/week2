@@ -26,3 +26,25 @@ python3 product_analytics.py
 <img width="856" height="727" alt="Screenshot 2026-03-08 at 4 19 31 PM" src="https://github.com/user-attachments/assets/f69158e1-8ca8-4d91-a8b4-581bcd55e595" />
 
 <img width="839" height="732" alt="Screenshot 2026-03-08 at 4 19 43 PM" src="https://github.com/user-attachments/assets/7a635075-6e09-4c06-bf9b-450504cf63a7" />
+
+
+## Part B:- Bundle Discounts System:- 
+This is a bundle discounts system implemented in Python. It uses frozensets to efficiently process and analyze the data. The system takes a set of customer carts and product catalogs as input and provides insights such as best bundle discounts, matching bundles, and bundle discount percentages.
+
+### Files:- 
+
+[`frozenset_bundles.py`](./frozenset_bundles.py): main program containing bundle discounts logic 
+
+### How to use:- 
+
+1. Run the program using :-
+
+```python
+python3 frozenset_bundles.py
+```
+
+### Output Screenshot:- 
+
+
+
+    
