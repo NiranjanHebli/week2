@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](#badges)
 
-## Part A:- Sales Data Pipeline- 
+## Part A:- Sales Data Pipeline
 This project implements a data merger pipeline that processes sales data from multiple CSV files.
 The program reads several CSV files, merges their contents, removes duplicate records, and generates structured output files.
 
@@ -70,3 +70,8 @@ python3 backup_manager.py source_data backups
 ## Part C - Interview Answers
 
 ### Solutions in the file:- [interview_answers.md](./interview_answers.md)
+
+
+## Part D - AI Augmented Task
+
+### Solutions in the file:- [ai_augmented.md](./ai_augmented.md)

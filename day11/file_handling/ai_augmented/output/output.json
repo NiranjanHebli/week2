@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-01-15",
+        "product": "Laptop",
+        "qty": "2",
+        "price": "75000"
+    },
+    {
+        "date": "2025-01-15",
+        "product": "Mouse",
+        "qty": "10",
+        "price": "500"
+    },
+    {
+        "date": "2025-01-16",
+        "product": "Keyboard",
+        "qty": "5",
+        "price": "1200"
+    },
+    {
+        "date": "2025-01-17",
+        "product": "Monitor",
+        "qty": "3",
+        "price": "11000"
+    },
+    {
+        "date": "2025-01-17",
+        "product": "Mouse",
+        "qty": "8",
+        "price": "500"
+    }
+]

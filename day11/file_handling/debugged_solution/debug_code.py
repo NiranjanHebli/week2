@@ -1,7 +1,17 @@
 import csv
 
-
+# Function to merge CSV files into a single CSV file named "merged.csv". 
 def merge_csv_files(file_list):
+    """
+    Merge CSV files into a single CSV file named "merged.csv".
+
+    Parameters:
+    file_list (list): List of CSV filenames to merge.
+
+    Returns:
+    int: Total number of rows merged, including the header.
+
+    """
     all_data = []
     header_saved = False
 
