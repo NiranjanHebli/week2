@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "files_processed": 3,
+    "total_rows": 13,
+    "total_revenue": 556500.0,
+    "generated_at": "2026-03-10T22:47:47.335367"
+  },
+  "revenue_by_product": {
+    "Laptop": 450000.0,
+    "Monitor": 66000.0,
+    "Keyboard": 18000.0,
+    "Mouse": 22500.0
+  }
+}

@@ -17,3 +17,5 @@ This repo contains assignments given in week-2. The assignments are written in P
 [Day 10 - AM - Assignment](day10/dicts/README.md)
 
 [Day 10 - PM - Assignment](day10/functions/README.md)
+
+[Day 11 - AM - Assignment](day11/file_handling/README.md)
