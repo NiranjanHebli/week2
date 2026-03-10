@@ -68,6 +68,7 @@ def rotate_backups(backup_dir):
             old_file.unlink()
             log(f"Deleted old backup: {old_file.name}")
 
+
 # The main function orchestrates the backup process.
 def main():
     if len(sys.argv) != 3:

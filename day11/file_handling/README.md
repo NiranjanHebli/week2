@@ -66,3 +66,7 @@ eg:-
 ```bash
 python3 backup_manager.py source_data backups
 ```
+
+## Part C - Interview Answers
+
+### Solutions in the file:- [interview_answers.md](./interview_answers.md)
