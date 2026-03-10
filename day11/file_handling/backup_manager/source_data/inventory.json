@@ -1,0 +1,9 @@
+{
+  "store": "Central Warehouse",
+  "inventory": [
+    {"product": "Laptop", "stock": 25},
+    {"product": "Mouse", "stock": 150},
+    {"product": "Keyboard", "stock": 75},
+    {"product": "Monitor", "stock": 40}
+  ]
+}

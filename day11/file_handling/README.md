@@ -26,3 +26,43 @@ cd sales_data_pipeline
 ```bash
 python3 sales_data_pipeline.py
 ```
+
+## Part B:- Backup Manager
+This project implements a backup manager that archives files and folders from a specified directory.
+
+
+### Features:
+
+- Accepts source directory and backup directory as command-line arguments.
+
+- Copies only files with .csv and .json extensions from the source directory.
+
+- Creates timestamped backup copies of each file to maintain version history.
+
+- Skips files that were already backed up, using entries recorded in the backup log.
+
+- Maintains only the latest 5 backups per file and removes older backups automatically.
+
+- Records all operations (copy, skip, and deletion events) in backup_log.txt using append mode to preserve the backup history.
+
+The implementation uses Python’s built-in os, shutil, and datetime modules.
+
+### Files:- 
+
+[`backup_manager.py`](./backup_manager/backup_manager.py): main program containing backup manager logic
+
+### How to use:- 
+
+1. Run the program using :-
+
+```bash
+cd backup_manager
+```
+```bash
+python3 backup_manager.py <source_directory> <destination_directory>
+```
+eg:-
+
+```bash
+python3 backup_manager.py source_data backups
+```
