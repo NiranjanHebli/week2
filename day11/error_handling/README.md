@@ -9,7 +9,7 @@ Error handling is an important part of writing robust code. Python provides a po
 In this assignment, I will be implementing exception handling in three program files selected from assignments given in Day 8-10. This will involve adding try/except blocks to catch and handle exceptions, as well as finally blocks to ensure that resources are cleaned up after the operation is complete.
 
 
-### Files:- 
+### File:- 
 
 -  [`Error Handling Checklist`](./part_a/error_handling_checklist.md)
 
@@ -29,7 +29,23 @@ In this assignment, I will be implementing exception handling in three program f
 - [`rotate_list.py`](./part_a/rotate_list.py)
 
 
-## Part B:-
+## Part B:- File Processing 
+
+This program processes a directory of CSV files, reading each file and writing the contents to a report file.If an exception occurs, the program will continue to the next file after noting down the issues.
+
+### File:- 
+- [`file_processor_resilient.py`](./file_processor/file_processor_resilient.py)
+
+
+### How to Use:-
+
+```bash
+cd file_processor
+```
+
+```bash
+python3 file_processor_resilient.py
+```
 
 ## Part C - Interview Answers
 

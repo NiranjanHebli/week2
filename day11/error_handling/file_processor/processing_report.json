@@ -1,0 +1,43 @@
+{
+    "files_processed": [
+        {
+            "file": "valid_data_1.csv",
+            "result": {
+                "rows": 5,
+                "columns": 3
+            }
+        },
+        {
+            "file": "valid_data_2.csv",
+            "result": {
+                "rows": 4,
+                "columns": 3
+            }
+        },
+        {
+            "file": "empty_file.csv",
+            "result": {
+                "rows": 0,
+                "columns": 0
+            }
+        }
+    ],
+    "files_failed": [
+        {
+            "file": "corrupted_file.csv",
+            "result": {
+                "rows": 4,
+                "columns": 2,
+                "corruption_reason": "Inconsistent columns at row 4: expected 2, got 4"
+            }
+        }
+    ],
+    "error_details": {
+        "corrupted_file.csv": {
+            "error_type": "corruption",
+            "reason": "Inconsistent columns at row 4: expected 2, got 4",
+            "rows_processed": 4,
+            "columns_detected": 2
+        }
+    }
+}

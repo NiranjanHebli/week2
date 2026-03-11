@@ -1,0 +1,6 @@
+2026-03-11 14:34:32,090 - INFO - Processing file: corrupted_file.csv
+2026-03-11 14:34:32,090 - WARNING - Corruption detected in data/corrupted_file.csv: Inconsistent columns at row 4: expected 2, got 4
+2026-03-11 14:34:32,090 - WARNING - Corrupted file detected: corrupted_file.csv
+2026-03-11 14:34:32,090 - INFO - Processing file: valid_data_1.csv
+2026-03-11 14:34:32,091 - INFO - Processing file: valid_data_2.csv
+2026-03-11 14:34:32,091 - INFO - Processing file: empty_file.csv
