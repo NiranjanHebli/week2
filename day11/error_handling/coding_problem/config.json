@@ -1,0 +1,25 @@
+{
+  "user": {
+    "name": "Alex",
+    "age": 28,
+    "email": "alex@example.com"
+  },
+  "preferences": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true
+  },
+  "devices": [
+    {
+      "type": "laptop",
+      "brand": "Dell",
+      "os": "Windows"
+    },
+    {
+      "type": "phone",
+      "brand": "Samsung",
+      "os": "Android"
+    }
+  ],
+  "last_login": "2026-03-10T14:30:00"
+}
